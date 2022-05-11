@@ -18,8 +18,10 @@ const SongsContainer = () => {
 
     return (
         <>
+        <div className = "app-container">
         <h1>UK Top 20</h1>
         <SongsList songs = {songs}></SongsList>
+        </div>
         </>
     )
 }
