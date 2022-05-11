@@ -3,10 +3,12 @@ body {
   background: rgb(94,88,196);
   background: linear-gradient(0deg, rgba(94,88,196,1) 0%, rgba(139,139,196,1) 46%, rgba(227,227,252,1) 100%);
   font-family:'Courier New', Courier, monospace;
+  color:rgb(71, 77, 97)
 }
 
 h1 {
   font-size: 200%;
+  color:rgb(71, 77, 97);
 }
 
 .list-container {
